@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef PROGRAMISTA__H
-#define PROGRAMISTA__H
+#ifndef PROGRAMMER__H
+#define PROGRAMMER__H
 
 #include <string>
 #include "user.h"

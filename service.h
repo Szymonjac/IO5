@@ -11,4 +11,4 @@ void discardProgram(int priorityint );
 
 };
 
-#endif
+#endif /*SERVICE__H*/
