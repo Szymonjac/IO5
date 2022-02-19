@@ -1,9 +1,14 @@
 #pragma once
+#ifndef SERVICE__H
+#define SERVICE__H
 
-class serwisant
+#include "user.h"
+class serwisant : public user
 {
 void setPriority(int priority, int );
 void acceptProgram(int priority, int );
 void discardProgram(int priorityint );
 
 };
+
+#endif
