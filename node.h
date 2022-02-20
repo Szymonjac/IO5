@@ -3,8 +3,8 @@
 #define NODE__H
 
 #include <string>
-#include "superkomputer.h"
-class node public superkomputer 
+#include "supercomputer.h"
+class node //public supercomputer 
 {
 
 };
