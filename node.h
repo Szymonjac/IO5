@@ -4,7 +4,7 @@
 
 #include <string>
 #include "superkomputer.h"
-class node public superkomputer 
+class node : public superkomputer 
 {
 
 };
