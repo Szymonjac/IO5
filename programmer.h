@@ -8,7 +8,7 @@
 
 #define Program void*
 
-class programista : public user
+class programmer : public user
 {
    void addProgram(Program program);
    Program getResults(std::string progra);

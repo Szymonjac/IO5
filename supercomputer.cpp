@@ -1,3 +1,3 @@
 #include <iostream>
-#include "superkomputer.h"
+#include "supercomputer.h"
 using namespace std;

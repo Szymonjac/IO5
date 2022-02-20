@@ -3,7 +3,7 @@
 #define SERVICE__H
 
 #include "user.h"
-class serwisant : public user
+class technician : public user
 {
 void setPriority(int priority, int );
 void acceptProgram(int priority, int );
